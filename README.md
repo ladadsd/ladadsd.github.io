@@ -3,7 +3,7 @@
 在本项目中，我通过反向代理（反代）实现了对某些特定网站的直接访问。非常感谢以下项目提供的思路与支持：
 
 ## 致谢
-- 感谢 (小夏春美)(https://github.com/xiao7hxh) 提供的 [yuzusoft.life](https://yuzusoft.life) 思路。
+- 感谢 [小夏春美](https://github.com/xiao7hxh) 提供的 [yuzusoft.life](https://yuzusoft.life) 思路。
 - 感谢 [lgc2333](https://github.com/lgc2333) 提供的反代思路。
 
 ## 项目说明
