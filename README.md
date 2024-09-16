@@ -14,14 +14,8 @@
 
 ### 使用方法
 1. 克隆本项目到本地：
-    ```bash
-    git clone https://github.com/yourusername/yourproject.git
-    ```
-2. 根据需要修改配置文件 `nginx.conf`，设置代理地址和目标站点。
-3. 启动 Nginx 服务器，并确保 SSL 证书配置无误：
-    ```bash
-    sudo service nginx start
-    ```
+2. 运行index.html
+3. 可以更换反代地址减少我们服务器压力
 
 ### 注意事项
 - 本项目仅用于学习与研究目的，请勿用于非法用途。
